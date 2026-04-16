@@ -1,0 +1,1 @@
+in my portfolio for form submission i use formspree and for deploy i use netlify
